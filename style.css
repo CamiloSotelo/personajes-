@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F9DBBA;
+    
+}
+h1{
+    color: #AD49E1;
+}
+h2{
+    color: #2E073F;
+}
+h3{
+    color: #3A1078;
+}
+.container{
+    max-width: 500px;
+}
+p{
+    color: #2E073F;
+}
